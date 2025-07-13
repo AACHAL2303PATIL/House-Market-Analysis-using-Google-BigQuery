@@ -37,14 +37,25 @@ The goal of this project is to help real estate stakeholders understand market d
 ---
 
 ## 🧠 Key Features:
-- SQL transformations in BigQuery for efficient data shaping
-- Year-over-Year (YOY) growth analysis using DAX
-- Median sales price change by region
-- Sales performance KPIs: Units Sold, 12-month sales
-- Region-wise sales visualization
-- Price comparison (Offer vs Purchase)
-- Key Influencer visual for purchase behavior
-- Filter panel by Region, Area, City, Sales Type
+- Used Google BigQuery public datasets (100K+ rows) for real estate transactions
+- Applied SQL transformations in BigQuery for efficient data shaping and preprocessing
+- Designed a star schema model for scalable and structured data modeling
+- Performed advanced calculations using DAX:
+  - Year-over-Year (YOY) Growth
+  - Last Twelve Months (LTM) Sales
+  - TOTALYTD sales aggregation
+- Developed dynamic KPI cards (Units Sold, Total Sales, Price Change %)
+- Created visual comparisons like:
+  - Median Sales Price Change by Region
+  - Offer Price vs Purchase Price (Scatter)
+  - Sales by Region (Waterfall)
+  - SQM Ratio by Sales Type
+- Implemented advanced visuals:
+  - Key Influencer visual for understanding purchase behavior
+  - Clustered bar, donut, and pie charts
+- Enabled interactive filtering by Region, Area, City, Sales Type, and House Type
+- Published the report to Power BI Service with scheduled auto-refresh
+
 
 ---
 
