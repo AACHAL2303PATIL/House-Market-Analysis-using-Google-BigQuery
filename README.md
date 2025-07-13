@@ -80,22 +80,10 @@ The goal of this project is to help real estate stakeholders understand market d
 
 ## 🖼️ Screenshots:
 
-### 📌 House Market Overview
-![House Market Overview](./images/house_market_overview.png)
-
-### 📌 Sales Performance Dashboard
-![Sales Performance](./images/sales_performance.png)
-
-### 📌 House Type Analysis Dashboard
-![House Type Analysis](./images/house_type_analysis.png)
-
-### 📌 YOY Growth Breakdown
-![YOY Breakdown](./images/yoy_growth_breakdown.png)
-
-### 📌 Sales by Region & Offer/Purchase
-![Sales Breakdown](./images/sales_by_region_offer_vs_purchase.png)
-
-> 💡 Rename your images accordingly and store them in an `/images` folder in your repo.
+- **Dashboard Overview**  
+  ![House-Market-Analysis Dashboard 1](https://github.com/AACHAL2303PATIL/House-Market-Analysis-using-Google-BigQuery/blob/main/House%20Dashboard%201.png)
+  ![House-Market-AnalysisDashboard 2](https://github.com/AACHAL2303PATIL/House-Market-Analysis-using-Google-BigQuery/blob/main/House%20Dashboard%202.png)
+  ![House-Market-Analysis Dashboard 3](https://github.com/AACHAL2303PATIL/House-Market-Analysis-using-Google-BigQuery/blob/main/House%20Dashboard%203.png)
 
 ---
 
@@ -109,13 +97,5 @@ The goal of this project is to help real estate stakeholders understand market d
 ---
 
 ## 📂 Dataset:
-- **Dataset Format:** Connected live from Google BigQuery or exported CSV
-- **Dataset Size:** Varies based on filters
-- **Data Freshness:** Updated as per BigQuery source
-
----
-
-## 🔗 Links:
-- **Dataset:** [Provide dataset link here]
-- **Power BI Report:** [Provide Power BI Service link here if hosted]
+🔗 [Click here to access the dataset](https://drive.google.com/file/d/1PpuWPloKOtTau5yG7QkXP2fuoDpQdXK4/view)
 
